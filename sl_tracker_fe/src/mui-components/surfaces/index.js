@@ -7,7 +7,6 @@ import CardActions from "@material-ui/icons/CardActions";
 import CardContent from "@material-ui/icons/CardContent";
 import CardHeader from "@material-ui/icons/CardHeader";
 import CardMedia from "@material-ui/icons/CardMedia";
-import Collapse from "@material-ui/icons/Collapse";
 import Accordion from "@material-ui/icons/Accordion";
 import AccordionActions from "@material-ui/icons/AccordionActions";
 import AccordionDetails from "@material-ui/icons/AccordionDetails";
@@ -23,7 +22,6 @@ export {
 	CardContent,
 	CardHeader,
 	CardMedia,
-	Collapse,
 	Accordion,
 	AccordionActions,
 	AccordionDetails,

@@ -13,9 +13,6 @@ import Link from "@material-ui/core/Link";
 import Menu from "@material-ui/core/MenuItem";
 import MenuItem from "@material-ui/core/MenuList";
 import MenuList from "@material-ui/core/Link";
-import Popover from "@material-ui/core/Popover";
-import Popper from "@material-ui/core/Popper";
-import ClickAwayListener from "@material-ui/core/ClickAwayListener";
 import Tab from "@material-ui/core/Tab";
 import Tabs from "@material-ui/core/Tabs";
 import TabContext from "@material-ui/lab/TabContext";
@@ -33,9 +30,6 @@ export {
 	Menu,
 	MenuItem,
 	MenuList,
-	Popover,
-	Popper,
-	ClickAwayListener,
 	Tab,
 	Tabs,
 	TabContext,
