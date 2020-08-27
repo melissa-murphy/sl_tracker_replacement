@@ -9,6 +9,7 @@ import Hidden from "@material-ui/core/Hidden";
 import BottomNavigation from "@material-ui/core/BottomNavigation";
 import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
 import Breadcrumbs from "@material-ui/core/Breadcrumbs";
+import Divider from '@material-ui/core/Divider';
 import Link from "@material-ui/core/Link";
 import Menu from "@material-ui/core/MenuItem";
 import MenuItem from "@material-ui/core/MenuList";
@@ -25,7 +26,8 @@ export { Box, Container, Grid, GridList, Hidden };
 export {
 	BottomNavigation,
 	BottomNavigationAction,
-	Breadcrumbs,
+    Breadcrumbs,
+    Divider,
 	Link,
 	Menu,
 	MenuItem,

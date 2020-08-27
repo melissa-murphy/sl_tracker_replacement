@@ -1,12 +1,14 @@
 import React from "react";
-import { Box } from "./mui-components/layout";
-import { CssBaseline } from "@material-ui/core";
+import { CssBaseline } from "./mui-components/utils";
+import { Layout } from "./layout/Layout";
+
+// TODO: add react-window? This is a load-on-demand library for handling large datasets and load time; only what is viewable within the "window" is loaded
 
 function App() {
 	return (
 		<div className="App">
 			<CssBaseline />
-			<Box>SL Tracker Replacement</Box>
+			<Layout />
 		</div>
 	);
 }
